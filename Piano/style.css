@@ -1,0 +1,25 @@
+
+
+div.tecla {
+    display: inline-block;
+    border: 2px solid gray;
+    width: 60px;
+    height: 350px;
+    vertical-align: top;
+}
+
+
+div.tecla.mediotono{
+    background: black;
+    height: 170px;
+    position: absolute;
+    margin-left: -35px;
+    
+}
+
+div.redonda{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px ; 
+    border: 1px solid black;
+}
